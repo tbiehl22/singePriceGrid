@@ -17,3 +17,8 @@ h4 {
     color: hsl(218, 22%, 67%);
     padding: 10px;
 }
+
+.signUp {
+    font-family: "Karla";
+    width: 10px;
+}
