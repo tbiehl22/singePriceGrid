@@ -1,6 +1,7 @@
 h1 {
     color: hsl(179, 62%, 43%);
     font-family: "Karla";
+    font-weight: 400, 700;
     padding: 10px;
 
 }
@@ -8,20 +9,19 @@ h1 {
 h2  {
     color: hsl(71, 73%, 54%);
     font-family: "Karla";
+    font-weight: 400, 700;
     padding: 10px;
 }
 
 h4 {
     font-size: 16px;
     font-family: "Karla";
+    font-weight: 400, 700;
     color: hsl(218, 22%, 67%);
 }
 
 .signUp {
     font-family: "Karla";
+    font-weight: 400, 700;
     width: 10px;
-}
-
-.card-img-top   {
-    
 }
